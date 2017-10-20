@@ -22,7 +22,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
                         "http://tb-video.bdstatic.com/tieba-smallvideo/1252235_2665d2901cd54360927926cd9e288c19.mp4",
             "http://tb-video.bdstatic.com/tieba-smallvideo/1252235_886e6a7283e308144d8e2c8117798fa1.mp4"};
 
-    private Context mContext;//mmp
+    private Context mContext;//mmp lalala
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
