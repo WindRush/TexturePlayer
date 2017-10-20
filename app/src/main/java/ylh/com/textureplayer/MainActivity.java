@@ -23,6 +23,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
             "http://tb-video.bdstatic.com/tieba-smallvideo/1252235_886e6a7283e308144d8e2c8117798fa1.mp4"};
 
     private Context mContext;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
